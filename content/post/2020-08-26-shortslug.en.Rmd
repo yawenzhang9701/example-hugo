@@ -1,0 +1,27 @@
+---
+title: Fancy Blog Post
+author: Emi Tanaka
+date: '2020-08-26'
+slug: shortslug
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-08-26T19:17:10+08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+
+
+
+
+Ehhlooooo
+
+It is wonderful weather today
